@@ -19,8 +19,8 @@ body {
     <div align="center" style="margin-top: 50px;">
  
         <form action="Tabuleiro">
-            Please enter your Username:  <input type="text" name="username" size="20px"> <br>
-            Please enter your Password:  <input type="text" name="password" size="20px"> <br><br>
+            Please enter Username:  <input type="text" name="username" size="20px"> <br>
+            Please enter Password:  <input type="text" name="password" size="20px"> <br><br>
         <input type="submit" value="submit">
         </form>
  
